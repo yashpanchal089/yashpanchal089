@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Java+Developer;Backend+Engineer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Java+Developer;Backend+Engineer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
+
+
 💻 **Software Developer | Java Enthusiast | Backend Explorer**  
 
 I’m passionate about building **scalable backend systems**, working with **Java & Spring Boot**, and solving **real-world problems through software**.  
