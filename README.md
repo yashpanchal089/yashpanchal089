@@ -10,9 +10,7 @@ Coding for me isn’t just a job—it’s a **craft, an obsession, and a never-e
 ⚡ Believer in **“Code. Debug. Improve. Repeat.”**  
 
 ## ☕ Core Java Playground  
-![Core Java Banner](https://github.com/yashpanchal089/yashpanchal089/blob/main/Assests/core-java-banner.png?raw=true)
 
----
 
 ## 🛠️ My Tech Arsenal  
 
