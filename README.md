@@ -48,7 +48,6 @@ Coding for me isn’t just a job—it’s a **craft, an obsession, and a never-e
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpanchal089&show_icons=true&theme=radical&hide_title=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpanchal089&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashpanchal089&theme=tokyonight&hide_border=false)
 
 ---
 
