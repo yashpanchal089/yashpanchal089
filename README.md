@@ -11,7 +11,7 @@ Coding for me isn’t just a job—it’s a **craft, an obsession, and a never-e
 
 ## ☕ Core Java Playground  
 
-![Core Java Playground](https://raw.githubusercontent.com/yashpanchal089/core-java/main/Assests/core-java-banner.png)
+![Core Java Playground](https://raw.githubusercontent.com/yashpanchal089/core-java/main/Assests/ChatGPT Image Sep 23, 2025, 11_40_46 PM)
 
 ---
 
