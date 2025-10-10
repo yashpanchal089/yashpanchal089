@@ -18,8 +18,6 @@ Coding for me isn’t just a job—it’s a **craft, an obsession, and a never-e
 | **Database Management** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Version Control & Deployment** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) |
 | **Tools & IDEs** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-0099D6?style=for-the-badge&logo=netbeans&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white) |
-|
-
 
 
 ## 📂 Featured Projects  
@@ -32,17 +30,16 @@ Coding for me isn’t just a job—it’s a **craft, an obsession, and a never-e
 
 ## 📊 GitHub Performance  
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpanchal089&show_icons=true&theme=radical&hide_title=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpanchal089&layout=compact&theme=radical)  
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpanchal089&show_icons=true&theme=radical&hide_title=false&card_width=420) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpanchal089&layout=compact&theme=radical&card_width=420)
 
 ---
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panchalyash2000/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panchalyash089@email.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panchalyash2000/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panchalyash089@email.com)  
 
----
 
 ## ⚡ Fun Zone  
 
